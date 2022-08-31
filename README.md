@@ -28,7 +28,7 @@ In this phase of analysis,I created a pivot table showing outcome of project bas
 (2) What can you conclude about the Outcomes based on Goals?
 - Using this analysis, we can conclude that the number of successful campaigns are higher if the goal range is low.Also we can deduce number of failed projects increases drastically when goal amount is 50000 or more.
 
-![Outcomes Based on Goals](https://github.com/miralchangela/kickstarter-analysis/blob/main/Resources/Outcomes_vs_goals.jpg)
+![Outcomes Based on Goals](https://github.com/miralchangela/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
 (3) What are some limitations of this dataset?
